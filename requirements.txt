@@ -1,0 +1,9 @@
+# requirements file
+
+torch
+llama-index
+llama_index.llms.huggingface
+auto-gptq
+llama_index.vector_stores.Redis
+llama_index.embeddings.huggingface
+optimum
